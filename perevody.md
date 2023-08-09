@@ -5,15 +5,19 @@
 * Click the button ![](<.gitbook/assets/image (4).png>)
 * Click on ![](<.gitbook/assets/image (6).png>) below the search bar
 
-<figure><img src=".gitbook/assets/озон1 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-## What can I find here
+## What can you find here
 
 ### General information
 
 Here you can edit your full name and add a photo.
 
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ### Account credentials
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Phone number
 
@@ -31,27 +35,33 @@ Choose your birth date. This is important due to our selling policy: some produc
 
 Male or female. This is an optional field.
 
-#### Sessions and Devices
-
-In this block you can find all devices, where you use Ozon application. You can exit one of them or exit all.
-
 ### Sessions and Devices
 
 Here you can see all the devices that have logged into your Ozon account. You can also end sessions on devices that are no longer in use or log out from all sessions.
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Payment information
 
 In this block you can find all your cards. Do not worry: we do not store your full bank card numbers and CVV codes. Here you can delete card or add a new one.
 
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 ### Subscriptions
 
 In this section, you can configure notifications for orders, receipts, discounts, promotions, and more.
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Login
 
 If your device has a fingerprint scanner or Face ID, you can configure app login using them.
 
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 ### Application
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 #### City
 
@@ -66,6 +76,8 @@ Choose a currency - you will see all prices in this currency. Use can use a sear
 You can choose light theme, dark theme or keep the theme as in the system.
 
 ### Account
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 #### Log out
 
