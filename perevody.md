@@ -2,7 +2,10 @@
 
 ## How to get to this screen
 
-* Click the button ![](<.gitbook/assets/image (4).png>)
+* Click the button ![](<.gitbook/assets/image (4).png>)in the menu bar
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 * Click on ![](<.gitbook/assets/image (6).png>) below the search bar
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -21,7 +24,7 @@ Here you can edit your full name and add a photo.
 
 #### Phone number
 
-Your phone number is used to generate a receipt, when you make an order. To change your phone number click on it, confirm phone number with SMS and enter another phone number.
+Your phone number is used to generate a receipt, when you make an order. To change your phone number click on it, confirm phone number via SMS and enter another phone number.
 
 #### Email
 
@@ -31,13 +34,13 @@ You will recieve payment receipts, special offers, and promotional newsletters o
 
 Choose your birth date. This is important due to our selling policy: some products are labeled as 18+ and can only be purchased if you are 18 years old or older.
 
-#### Sex
+#### Gender
 
 Male or female. This is an optional field.
 
 ### Sessions and Devices
 
-Here you can see all the devices that have logged into your Ozon account. You can also end sessions on devices that are no longer in use or log out from all sessions.
+Here you can see all the devices where you logged in to your Ozon account. You can also end sessions on devices that are no longer in use or log out from all sessions.
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,9 +72,9 @@ Choose your city. This is important because the price, terms of delivery and del
 
 #### Currency
 
-Choose a currency - you will see all prices in this currency. Use can use a search of find currency in the list.
+Choose a currency - you will see all prices in this currency. You can use a search or find currency in the list.
 
-#### Color of application
+#### Theme
 
 You can choose light theme, dark theme or keep the theme as in the system.
 
