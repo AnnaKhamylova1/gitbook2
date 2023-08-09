@@ -59,11 +59,11 @@ Choose your city. This is important because the price, terms of delivery and del
 
 #### Currency
 
-Choose a currency - you will see all prices in this currency.
+Choose a currency - you will see all prices in this currency. Use can use a search of find currency in the list.
 
 #### Color of application
 
-You can choose light theme, dark theme or keep the theme as it is in the system.
+You can choose light theme, dark theme or keep the theme as in the system.
 
 ### Account
 
