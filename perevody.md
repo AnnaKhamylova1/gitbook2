@@ -41,7 +41,7 @@ Here you can see all the devices that have logged into your Ozon account. You ca
 
 ### Payment information
 
-In this block you can find all your cards. Do not worry: we do not store your bank card numbers and CVV codes. Here you can delete card or add a new one.
+In this block you can find all your cards. Do not worry: we do not store your full bank card numbers and CVV codes. Here you can delete card or add a new one.
 
 ### Subscriptions
 
