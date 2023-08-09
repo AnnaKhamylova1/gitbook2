@@ -7,13 +7,13 @@ description: В завтрак входит яичница, тосты и коф
 ## Как приготовить завтрак
 
 1. [Подготовка](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#podgotovka)
-2. [Ингредиенты](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#ingredienty)
-3. [Кухонные принадлежности](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kukhonnye-prinadlezhnosti)
-4. [Приготовление завтрака](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#prigotovlenie-zavtraka)
-   1. [Как приготовить яичницу](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-yaichnicu)
-   2. [Как приготовить тосты](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-tosty)
-   3. [Как сварить кофе](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-kofe)
-5. [Подача и сервировка](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#podacha-i-servirovka)
+   * [Ингредиенты](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#ingredienty)
+   * [Кухонные принадлежности](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kukhonnye-prinadlezhnosti)
+2. [Приготовление завтрака](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#prigotovlenie-zavtraka)
+   * [Как приготовить яичницу](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-yaichnicu)
+   * [Как приготовить тосты](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-tosty)
+   * [Как сварить кофе](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#kak-prigotovit-kofe)
+3. [Подача и сервировка](https://github.com/AnnaKhamylova1/gitbook1/blob/main/README%20\(1\).md#podacha-i-servirovka)
 
 ***
 
